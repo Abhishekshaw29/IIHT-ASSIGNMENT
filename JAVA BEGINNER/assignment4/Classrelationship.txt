@@ -1,0 +1,14 @@
+a) Identify the classes
+ans - Manager , Company , Employee , Contracter
+
+
+b) Identify the relationships between each classes
+ans - Association is between Manager and Employee , Employee and Company
+ Aggretation is between Employee and Company , Contracter and Employee
+
+c) Identify the attributes and methods
+ans - attributes are:-
+name ,  Employee , salary , Manager , lengthofcontract
+methods are :-
+getName , getEmployee , getlengthofcontract , addTeamMembers , getTeamMembers , getsalary , getEmployeeNumber 
+
